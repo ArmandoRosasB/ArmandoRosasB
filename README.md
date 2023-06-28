@@ -33,7 +33,7 @@
 <a href="https://racket-lang.org" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Racket-logo.svg/1200px-Racket-logo.svg.png" alt="racket" width="40" height="40"/> </a>
 <a href="https://www.swi-prolog.org" target="_blank" rel="noreferrer"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fdashboard.snapcraft.io%2Fsite_media%2Fappmedia%2F2020%2F04%2FProlog-logo-512.png&f=1&nofb=1&ipt=8eb0c8d62cd81c93c1d1facf0f4ae326c9ecd08fdd902134db9bfa54b0e8d692&ipo=images" alt="racket" width="40" height="40"/> </a>
 <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fopenclipart.org%2Fimage%2F2400px%2Fsvg_to_png%2F272339%2Fangular.png&f=1&nofb=1&ipt=7baf6a5278246261b9db334cc5f5069e3fe0d6cae2adf1dfee3e8bee1961badc&ipo=images" alt="racket" width="40" height="40"/> </a>
-<a href="https://spring.io/trademarks" target="_blank" rel="noreferrer"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftoppng.com%2Fuploads%2Fpreview%2Fspring-framework-logo-115631739940c79rwadnp.png&f=1&nofb=1&ipt=5d3a237133dade3477e8aeed98dd6b71ca5993590a326b733c257f7dee690f89&ipo=images" alt="racket" width="40" height="40"/> </a>    
+<a href="https://spring.io/trademarks" target="_blank" rel="noreferrer"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogos-download.com%2Fwp-content%2Fuploads%2F2021%2F01%2FSpring_Logo-2048x2048.png&f=1&nofb=1&ipt=e30570eb1caffb807884d1af4961cad0d01898ea5daf5f7cb2ae583c3d4ed8c2&ipo=images" alt="spring" width="40" height="40"/> </a>    
 </p>
 
 <p align="center">
