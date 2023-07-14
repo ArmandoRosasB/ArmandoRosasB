@@ -19,7 +19,7 @@
 
 💬 Ask me about **Data structures**
 
-😵‍💫 What the \*\*\*\* with **Java**
+😵‍💫 What the \*\*\*\* with **Regular Expressions**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
