@@ -11,7 +11,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=armandorosasb&label=Profile%20views&color=0e75b6&style=flat" alt="armandorosasb" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=darkhub" alt="armandorosasb" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ArmandoRosasB&theme=darkhub" alt="armandorosasb" /></a> </p>
 
 
 💻 My favorite progamming language: **C++**
