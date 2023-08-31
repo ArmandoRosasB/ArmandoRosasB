@@ -6,7 +6,7 @@
         width="100%"
         alt="Flowers"
         style="display:block; max-width: 830px;"
-        src= "https://media.licdn.com/dms/image/D5616AQGv9uIv2sb3dg/profile-displaybackgroundimage-shrink_350_1400/0/1675999078356?e=1693440000&v=beta&t=NYCvb7SLcMoEWAIv6KOudTJC3WMLh51u5RTVL8jLXP8" />
+        src= "https://media.licdn.com/dms/image/D5616AQGv9uIv2sb3dg/profile-displaybackgroundimage-shrink_350_1400/0/1675999078356?e=1698883200&v=beta&t=3fZQ-j9sCLHI5OabBPDGcGh9jp_JkxujJ3gwZi78GcM" />
 </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=armandorosasb&label=Profile%20views&color=0e75b6&style=flat" alt="armandorosasb" /> </p>
